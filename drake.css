@@ -16,18 +16,11 @@ body {
     overflow-x: hidden;
     font-family: Lucida Console;
 }
-/*自定义img样式*/
+/* DIY: 自定义img样式*/
 img {
-   /*  border-radius: 25px;
-    border: 6px solid #e6e3e3;
-    width: 60%;
-    height: auto;
-    transition:color 0.8s, border 2s; */
 	left: -2em;
     position: relative;
     box-shadow: -1px 8px 16px 0px black;
-   /*  width: 60%;
-    height: auto; */
     border-radius: 16px;
     box-shadow: 1px 10px 15px #4c4c4c94;
 }
